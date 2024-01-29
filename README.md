@@ -1,1 +1,1 @@
-# rank-predictor-ai
+# An AI Powered LoL Companion
